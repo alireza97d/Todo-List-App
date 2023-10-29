@@ -2,7 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, run the json-server:
+```bash
+npm run json-server
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+then, run the development server:
 
 ```bash
 npm run dev
@@ -14,13 +21,15 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
+
+To learn more about json-server, take a look at the following resources:
+
+- [json-server Repository](https://github.com/typicode/json-server) - learn about json-server (full fake REST API).
 
 To learn more about Next.js, take a look at the following resources:
 
