@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some orange"
+    },
+    {
+      "id": "2",
+      "text": "help my friend to find a girl"
+    },
+    {
+      "id": "b95bb646-b696-48d5-9f25-b7d24e65b3f2",
+      "text": "read a book about"
+    },
+    {
+      "id": "46fb51f4-afa7-4b28-8312-59b8272165c0",
+      "text": "create Form component"
+    }
+  ]
+}
